@@ -6,8 +6,6 @@ namespace Task_Async_await
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("hello");
         }
     }
 }
